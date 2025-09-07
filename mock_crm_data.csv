@@ -1,0 +1,501 @@
+CustomerID,CompanyName,Industry,TotalPurchases,LastInteractionDaysAgo,EngagementScore,Churn
+1001,Moore-Fischer,Tech,6000,31,65,0
+1002,"Green, Ramos and Butler",Retail,15000,187,78,0
+1003,Garcia PLC,Tech,39000,62,33,0
+1004,Mccormick Group,Retail,19000,284,24,0
+1005,Thomas LLC,Retail,36000,43,44,0
+1006,Navarro-Mendoza,Finance,10000,7,26,0
+1007,Duke Ltd,Retail,41000,183,71,0
+1008,"Williams, Pearson and Johnson",Healthcare,2000,312,47,0
+1009,Kerr-Weeks,Retail,31000,354,17,0
+1010,"Baker, Simon and Sanchez",Retail,35000,85,57,0
+1011,Haas Ltd,Manufacturing,32000,11,2,0
+1012,"Osborne, Zhang and Dougherty",Retail,39000,264,53,0
+1013,"Hall, Reed and Reed",Finance,29000,91,17,0
+1014,Norman Inc,Retail,14000,198,88,0
+1015,Anderson Inc,Retail,50000,116,36,0
+1016,Brewer and Sons,Retail,24000,204,25,0
+1017,Gomez LLC,Tech,24000,152,82,0
+1018,Smith LLC,Finance,13000,167,31,0
+1019,"Whitehead, Davis and Torres",Retail,45000,4,23,0
+1020,White-Martinez,Manufacturing,4000,138,71,0
+1021,Atkinson-Lambert,Retail,7000,29,86,0
+1022,Allen Group,Finance,4000,278,53,0
+1023,Parks PLC,Retail,40000,267,31,0
+1024,Blankenship-Brewer,Finance,35000,194,46,0
+1025,Ortiz Inc,Tech,25000,202,79,0
+1026,Meyer-Knox,Retail,21000,154,76,0
+1027,Duncan Inc,Retail,20000,93,87,0
+1028,Dixon Inc,Finance,44000,187,40,0
+1029,Hunt LLC,Healthcare,33000,279,86,0
+1030,Graham and Sons,Finance,6000,271,70,0
+1031,"Adams, Romero and Scott",Healthcare,47000,345,27,0
+1032,Dunn-Welch,Retail,33000,114,71,0
+1033,"Rich, Wallace and Gonzalez",Manufacturing,2000,31,26,0
+1034,Dorsey-Riley,Finance,18000,339,17,1
+1035,Schneider and Sons,Finance,42000,288,20,0
+1036,Blake-Simpson,Tech,24000,356,65,0
+1037,Wells-Phillips,Manufacturing,5000,2,53,0
+1038,Houston Group,Healthcare,34000,192,53,0
+1039,"Guerrero, Hamilton and Avila",Manufacturing,33000,200,1,0
+1040,Ortega-Price,Tech,14000,346,28,1
+1041,"Ramos, Oneill and Harrison",Healthcare,47000,230,55,0
+1042,Cole PLC,Manufacturing,39000,97,71,0
+1043,"Jacobson, Sanders and Miller",Tech,47000,353,5,1
+1044,"Houston, Boyer and Hudson",Tech,1000,218,10,0
+1045,Contreras Ltd,Finance,18000,30,44,0
+1046,"Stevens, Hancock and Walker",Manufacturing,11000,264,36,0
+1047,Thompson Ltd,Finance,13000,269,36,0
+1048,Ellison-Parrish,Finance,25000,167,6,0
+1049,Anderson-Costa,Healthcare,4000,225,29,0
+1050,Murphy LLC,Tech,37000,15,87,0
+1051,Fuller-Lawson,Manufacturing,3000,156,4,0
+1052,Fisher-Hanson,Tech,14000,275,73,0
+1053,Harvey Group,Healthcare,48000,167,26,0
+1054,Lyons-Harris,Finance,20000,153,61,0
+1055,Williams and Sons,Manufacturing,18000,132,8,0
+1056,Zuniga-Diaz,Retail,18000,283,19,1
+1057,Reyes and Sons,Tech,20000,112,88,0
+1058,"Edwards, Simmons and Carter",Healthcare,39000,340,76,0
+1059,Lopez LLC,Tech,47000,331,13,0
+1060,Rivera-Montgomery,Healthcare,35000,257,85,0
+1061,Carter Group,Retail,12000,311,10,1
+1062,"Morris, Kline and Romero",Manufacturing,43000,125,53,0
+1063,Booth PLC,Finance,18000,363,94,0
+1064,"Lee, Carter and Sanchez",Healthcare,39000,201,97,0
+1065,Perry-Foley,Manufacturing,14000,69,88,0
+1066,Hernandez-Collins,Finance,22000,178,47,0
+1067,"Jacobs, Myers and Hogan",Retail,35000,238,45,0
+1068,"Rodriguez, Chambers and Hernandez",Retail,44000,301,38,0
+1069,Smith-Wagner,Finance,41000,49,13,0
+1070,"Harvey, Long and Johnson",Tech,44000,181,5,0
+1071,Watson Ltd,Healthcare,9000,178,30,0
+1072,Baker LLC,Healthcare,44000,156,2,0
+1073,"Molina, Martinez and Sims",Manufacturing,5000,184,81,0
+1074,Leonard-Murray,Retail,10000,110,56,0
+1075,Miller-Ross,Manufacturing,48000,265,64,0
+1076,Hendricks-Crosby,Tech,8000,294,63,0
+1077,Madden Group,Manufacturing,2000,46,81,0
+1078,Richardson-Alvarez,Finance,28000,39,80,0
+1079,Ward LLC,Tech,3000,277,100,0
+1080,Warren Group,Healthcare,25000,107,37,0
+1081,Keller-Stuart,Retail,43000,66,69,0
+1082,"Watson, Atkinson and Davis",Healthcare,48000,341,92,0
+1083,Rogers-Buck,Manufacturing,12000,148,93,0
+1084,"Stone, Schneider and Collins",Tech,35000,284,8,1
+1085,Miller-Miller,Healthcare,48000,289,59,0
+1086,Mitchell Ltd,Retail,14000,279,96,0
+1087,"Robinson, House and Harris",Manufacturing,11000,167,15,0
+1088,"Stephenson, Carter and Green",Manufacturing,30000,155,91,0
+1089,Jordan and Sons,Manufacturing,6000,52,44,0
+1090,Best Inc,Healthcare,28000,22,98,0
+1091,Miller-Anderson,Finance,36000,276,89,0
+1092,Wilson-Cook,Finance,41000,284,51,0
+1093,Andrade Inc,Manufacturing,11000,157,95,0
+1094,Miles and Sons,Retail,22000,289,23,0
+1095,Porter-Thompson,Finance,11000,114,52,0
+1096,Smith Group,Finance,37000,206,70,0
+1097,"Moore, Trevino and Hernandez",Retail,11000,266,88,0
+1098,Munoz-Bell,Finance,25000,260,52,0
+1099,Casey Group,Healthcare,21000,106,96,0
+1100,Carlson-Eaton,Finance,9000,306,47,0
+1101,Curtis and Sons,Tech,48000,274,23,0
+1102,"Wells, Peterson and Edwards",Manufacturing,31000,329,93,0
+1103,Byrd Ltd,Manufacturing,22000,95,28,0
+1104,"Kelly, Stokes and Thompson",Retail,46000,156,8,0
+1105,Cole LLC,Retail,25000,268,53,0
+1106,Moore-Parker,Tech,4000,74,66,0
+1107,Sullivan-Marshall,Healthcare,9000,55,30,0
+1108,Robertson Inc,Retail,21000,331,75,0
+1109,Maldonado-Crawford,Tech,42000,139,93,0
+1110,"Walters, Johnson and Davis",Finance,43000,114,38,0
+1111,Molina LLC,Tech,2000,150,8,0
+1112,Warren Group,Manufacturing,40000,5,1,0
+1113,Turner-Anderson,Retail,34000,14,53,0
+1114,Cook and Sons,Healthcare,31000,34,99,0
+1115,"Long, Herrera and Perez",Retail,47000,157,90,0
+1116,Yates-Rice,Retail,8000,145,62,0
+1117,"Luna, Herrera and Anderson",Retail,33000,107,99,0
+1118,Marks-Love,Healthcare,28000,272,95,0
+1119,"Edwards, Thompson and Hamilton",Manufacturing,43000,253,2,0
+1120,"Reyes, Lewis and Johnson",Tech,41000,106,69,0
+1121,Pollard-King,Retail,14000,79,65,0
+1122,Forbes-Williams,Retail,1000,261,10,1
+1123,Curry-Potter,Retail,7000,141,35,0
+1124,Lopez-Fisher,Healthcare,4000,14,98,0
+1125,Harris-Richard,Retail,5000,342,81,0
+1126,"Frederick, Marshall and Shaw",Retail,31000,202,14,0
+1127,"Merritt, Potter and Ramsey",Healthcare,11000,361,60,0
+1128,"Krueger, Daniel and Watts",Manufacturing,22000,162,8,0
+1129,"Brown, Washington and Hawkins",Healthcare,33000,19,100,0
+1130,Hood-Potter,Tech,17000,140,61,0
+1131,Warner PLC,Healthcare,16000,88,92,0
+1132,"Baird, Roy and Roberts",Finance,8000,184,65,0
+1133,"Taylor, Short and Padilla",Tech,13000,65,65,0
+1134,"Robinson, Morris and Jones",Retail,21000,200,73,0
+1135,Gonzalez Group,Finance,13000,272,57,0
+1136,Murphy Ltd,Healthcare,34000,96,94,0
+1137,Kennedy-Santana,Healthcare,5000,62,11,0
+1138,"Lane, King and Rocha",Healthcare,48000,256,15,0
+1139,Morales Ltd,Tech,10000,362,87,0
+1140,"Norris, Carroll and Martinez",Tech,35000,157,88,0
+1141,"Gaines, Garcia and Johnson",Manufacturing,32000,308,20,0
+1142,Butler-Long,Finance,50000,328,33,1
+1143,"Brown, Pittman and Lloyd",Healthcare,35000,270,18,0
+1144,"Waller, Medina and Thomas",Retail,8000,175,47,0
+1145,Cortez Ltd,Healthcare,2000,257,77,0
+1146,Douglas Group,Healthcare,40000,240,77,0
+1147,Parks and Sons,Finance,2000,53,36,0
+1148,Clark Group,Healthcare,8000,91,46,0
+1149,Ruiz-Hogan,Retail,8000,223,65,0
+1150,Perry-White,Healthcare,19000,347,88,0
+1151,Harper-Mccall,Tech,15000,305,5,1
+1152,Small PLC,Tech,44000,303,2,1
+1153,Taylor PLC,Finance,38000,12,63,0
+1154,Moore-Clarke,Healthcare,25000,280,63,0
+1155,Nelson-Nguyen,Healthcare,22000,161,29,0
+1156,Barker PLC,Healthcare,29000,294,56,0
+1157,Clark and Sons,Retail,6000,131,5,0
+1158,Bolton LLC,Tech,23000,196,66,0
+1159,Carter-Nguyen,Finance,27000,66,84,0
+1160,Benton-Johnson,Retail,17000,161,56,0
+1161,Carney-Nixon,Finance,38000,7,41,0
+1162,Harrell-Hall,Manufacturing,46000,143,40,0
+1163,Ballard Group,Finance,12000,330,30,1
+1164,Mullins Inc,Tech,35000,40,37,0
+1165,Johnson PLC,Finance,14000,190,40,0
+1166,Johnson-Holder,Healthcare,39000,354,40,0
+1167,"Daugherty, Robertson and Lawrence",Manufacturing,18000,77,82,0
+1168,"Washington, Murray and Giles",Finance,8000,340,53,0
+1169,Howell-Thomas,Healthcare,21000,270,7,1
+1170,"Cruz, Lopez and Sandoval",Retail,7000,288,49,0
+1171,Maddox Group,Manufacturing,19000,249,70,0
+1172,"Smith, Gallagher and Hall",Tech,50000,113,29,0
+1173,Bennett and Sons,Finance,1000,269,79,0
+1174,"Grant, Olson and Mcpherson",Tech,38000,152,17,0
+1175,"Mason, Dickson and Ritter",Tech,15000,227,52,0
+1176,Adams-Jackson,Manufacturing,28000,66,84,0
+1177,Campbell LLC,Manufacturing,47000,344,69,0
+1178,Frazier-Nichols,Healthcare,30000,14,84,0
+1179,"Perry, Graham and Spencer",Tech,30000,157,99,0
+1180,Gomez-Edwards,Manufacturing,18000,2,17,0
+1181,Banks and Sons,Finance,12000,60,73,0
+1182,Jones Group,Retail,24000,332,93,0
+1183,"Church, Barrett and Wilkins",Healthcare,6000,16,100,0
+1184,Kirk Ltd,Retail,23000,151,18,0
+1185,"Carter, Fowler and Miller",Tech,23000,223,63,0
+1186,George Inc,Finance,18000,115,39,0
+1187,Ferguson-Espinoza,Retail,8000,160,86,0
+1188,Riley-Smith,Retail,38000,109,5,0
+1189,"Castillo, Ochoa and Hobbs",Retail,28000,275,93,0
+1190,Ruiz-Valencia,Manufacturing,14000,283,16,1
+1191,Berry LLC,Tech,19000,218,20,0
+1192,Tucker Group,Healthcare,8000,25,89,0
+1193,Anderson Ltd,Finance,23000,211,82,0
+1194,Thompson Ltd,Retail,4000,60,94,0
+1195,Sanders Group,Finance,39000,243,54,0
+1196,Ponce Ltd,Manufacturing,35000,161,92,0
+1197,"Bryant, Vega and Lynch",Retail,34000,21,34,0
+1198,"Fisher, Donaldson and Henderson",Healthcare,7000,205,2,0
+1199,Jackson-Mcdonald,Finance,12000,87,70,0
+1200,Schneider-Salas,Tech,6000,365,8,1
+1201,"Jones, Smith and Bradford",Retail,22000,73,79,0
+1202,Ward-Lee,Healthcare,35000,353,22,1
+1203,"Williams, Stevens and White",Manufacturing,35000,344,11,1
+1204,"Berry, James and Terry",Tech,7000,54,27,0
+1205,Cunningham-Hernandez,Retail,27000,238,4,1
+1206,Harris LLC,Tech,4000,119,14,0
+1207,Flores-Strong,Finance,42000,244,76,0
+1208,Newman Group,Healthcare,17000,113,69,0
+1209,"Flores, Moore and Simmons",Retail,3000,312,35,0
+1210,"Sampson, Walker and Wise",Finance,44000,182,67,0
+1211,Smith-Reid,Tech,29000,244,45,0
+1212,"Young, Cruz and Fox",Retail,30000,280,52,0
+1213,"Miller, Colon and Miller",Manufacturing,21000,101,80,0
+1214,"Rogers, Francis and Watson",Finance,10000,115,63,0
+1215,Holmes-Erickson,Healthcare,24000,212,67,0
+1216,"Baker, Hunter and Henderson",Finance,1000,349,59,0
+1217,"Price, Webb and Yu",Healthcare,15000,20,63,0
+1218,"Taylor, Duncan and Lane",Healthcare,49000,84,63,0
+1219,"Crawford, James and Ryan",Manufacturing,48000,232,29,0
+1220,"Smith, Tucker and Melton",Finance,31000,282,72,0
+1221,"Riley, Baker and Smith",Finance,47000,304,21,1
+1222,"Diaz, Mason and Guzman",Retail,6000,306,77,0
+1223,"Elliott, Larson and Rios",Manufacturing,50000,278,58,0
+1224,"Turner, Warner and Silva",Finance,21000,202,59,0
+1225,Salinas Group,Finance,27000,172,3,0
+1226,Wilkinson Group,Manufacturing,32000,8,90,0
+1227,Harris-Butler,Retail,39000,225,51,0
+1228,Oneill-Gallegos,Healthcare,20000,114,79,0
+1229,Brown-Smith,Manufacturing,23000,157,100,0
+1230,Avila-Robertson,Manufacturing,15000,22,79,0
+1231,Williams PLC,Manufacturing,9000,75,72,0
+1232,"Newton, Erickson and Cummings",Healthcare,4000,66,31,0
+1233,"Conway, Kim and Ryan",Finance,49000,41,5,0
+1234,Clark LLC,Retail,5000,183,21,0
+1235,Williams and Sons,Healthcare,34000,139,94,0
+1236,Fields and Sons,Manufacturing,5000,48,77,0
+1237,"Cook, Romero and Herring",Finance,42000,219,37,0
+1238,Lewis and Sons,Healthcare,28000,147,25,0
+1239,"Garrett, Boone and Brown",Tech,29000,37,36,0
+1240,Hawkins and Sons,Retail,35000,81,71,0
+1241,"Wagner, Floyd and Washington",Manufacturing,44000,331,20,1
+1242,"Howe, Flowers and Pollard",Finance,2000,258,5,0
+1243,"Myers, Calderon and Anderson",Retail,29000,303,89,0
+1244,Johnson-Sullivan,Retail,21000,316,17,0
+1245,Dyer-Walls,Healthcare,19000,25,68,0
+1246,Meadows-Brown,Manufacturing,37000,342,22,0
+1247,Schmitt Group,Tech,8000,156,98,0
+1248,"Russell, Parker and Walker",Healthcare,22000,31,62,0
+1249,"Lambert, Williams and Flores",Tech,37000,358,3,1
+1250,Jones LLC,Tech,43000,40,32,0
+1251,"Davis, Campbell and Morris",Retail,14000,313,18,0
+1252,Leon and Sons,Healthcare,33000,283,100,0
+1253,Hughes and Sons,Tech,44000,240,14,0
+1254,Dennis PLC,Tech,35000,3,68,0
+1255,Peterson and Sons,Tech,18000,341,57,0
+1256,"Bennett, Blair and Holmes",Retail,50000,222,48,0
+1257,"Carrillo, Smith and Greene",Manufacturing,49000,345,34,1
+1258,"Scott, Olson and Fritz",Retail,4000,178,98,0
+1259,Black Group,Manufacturing,14000,194,9,0
+1260,Roy-Ayers,Finance,48000,23,52,0
+1261,Morgan Inc,Retail,21000,334,28,0
+1262,Park and Sons,Finance,48000,256,11,1
+1263,Smith-Paul,Retail,25000,110,72,0
+1264,Ellis and Sons,Finance,46000,60,71,0
+1265,"Wilson, Sanders and Ayala",Tech,41000,48,52,0
+1266,Moore Group,Finance,16000,91,81,0
+1267,Green Group,Healthcare,26000,56,22,0
+1268,Yoder-Baldwin,Retail,18000,140,59,0
+1269,Mccoy-Wilson,Healthcare,32000,7,45,0
+1270,Lewis-Fitzpatrick,Finance,50000,42,99,0
+1271,Gardner-Dixon,Finance,22000,215,23,0
+1272,Hall PLC,Retail,29000,254,83,0
+1273,Thomas-Flores,Retail,34000,142,82,0
+1274,"Kelly, Hess and Wagner",Manufacturing,1000,26,83,0
+1275,"Ellis, Carter and Norris",Healthcare,22000,333,11,1
+1276,Lopez-Ryan,Retail,21000,339,11,1
+1277,"May, Brown and Miller",Manufacturing,44000,341,76,0
+1278,Johns Inc,Retail,18000,56,96,0
+1279,Turner-Spencer,Manufacturing,3000,205,92,0
+1280,Williams-Clay,Retail,40000,82,97,0
+1281,"Forbes, Meyers and Short",Healthcare,34000,36,64,0
+1282,Jones-Price,Manufacturing,25000,354,33,0
+1283,Turner-Jenkins,Manufacturing,14000,308,59,0
+1284,Young Inc,Finance,22000,145,96,0
+1285,Clarke-Chambers,Tech,6000,37,39,0
+1286,Silva-Rojas,Finance,36000,10,77,0
+1287,Palmer Inc,Finance,8000,259,79,0
+1288,"Soto, Foley and Craig",Tech,31000,46,9,0
+1289,Bailey PLC,Retail,31000,224,96,0
+1290,Haynes LLC,Manufacturing,11000,230,56,0
+1291,Duncan-Greer,Tech,38000,84,83,0
+1292,"Taylor, Perkins and Cox",Finance,13000,350,100,0
+1293,Yoder-Harris,Tech,6000,88,30,0
+1294,"Ellis, Glass and Hoffman",Healthcare,14000,123,55,0
+1295,Fuentes Group,Tech,39000,151,64,0
+1296,Turner-Cook,Retail,35000,141,46,0
+1297,"Barrett, Buckley and Martin",Healthcare,47000,164,95,0
+1298,Perez-Vang,Finance,17000,84,58,0
+1299,Clark Group,Tech,14000,3,23,0
+1300,"Nguyen, Woods and Morgan",Tech,25000,21,92,0
+1301,Cordova-Bryan,Finance,22000,234,16,0
+1302,"Mccann, Robinson and Guerra",Finance,3000,51,36,0
+1303,Carrillo-Soto,Manufacturing,30000,4,99,0
+1304,Jones-Robinson,Healthcare,38000,225,66,0
+1305,Young Ltd,Healthcare,2000,278,96,0
+1306,Rodriguez Group,Retail,45000,141,31,0
+1307,Alexander LLC,Finance,12000,236,72,0
+1308,Barajas-Christensen,Tech,37000,160,89,0
+1309,"Owens, Allen and Bennett",Manufacturing,28000,336,13,1
+1310,"Ware, Blake and Fleming",Manufacturing,10000,220,99,0
+1311,"Burns, Silva and Smith",Tech,36000,179,34,0
+1312,Kim-Crawford,Tech,32000,26,34,0
+1313,Carroll-Jones,Healthcare,23000,203,33,0
+1314,"Graham, Mcintosh and Crawford",Tech,34000,194,88,0
+1315,Guzman-Lee,Healthcare,38000,2,18,0
+1316,Nunez-Bullock,Healthcare,44000,358,80,0
+1317,Bradley LLC,Tech,31000,221,38,0
+1318,"Hines, Coleman and Martinez",Finance,46000,15,40,0
+1319,Gonzalez-Carroll,Healthcare,28000,110,14,0
+1320,Chase LLC,Manufacturing,7000,75,59,0
+1321,Barnes LLC,Retail,25000,218,21,0
+1322,"Little, Smith and Mitchell",Retail,30000,118,60,0
+1323,Martin Group,Finance,7000,291,9,0
+1324,Weber and Sons,Finance,30000,93,75,0
+1325,Chambers-Cruz,Retail,22000,356,62,0
+1326,Trevino-Phillips,Manufacturing,38000,67,42,0
+1327,Moore-Young,Healthcare,34000,333,36,0
+1328,Newton PLC,Healthcare,33000,244,8,1
+1329,Glenn-Bullock,Manufacturing,47000,72,84,0
+1330,Martinez Group,Healthcare,31000,77,2,0
+1331,Martinez PLC,Finance,10000,60,64,0
+1332,Patel Inc,Manufacturing,49000,227,29,0
+1333,Moore-Lambert,Tech,34000,291,56,0
+1334,Brown Inc,Healthcare,38000,241,2,1
+1335,"Harvey, Brown and Pugh",Tech,29000,217,98,0
+1336,"Jimenez, Cruz and Livingston",Healthcare,31000,14,80,0
+1337,Garcia-Richardson,Healthcare,37000,312,50,0
+1338,Gilbert-Pierce,Healthcare,2000,310,17,1
+1339,"Thompson, Jackson and Gallegos",Finance,38000,161,82,0
+1340,"Stein, Moreno and Herrera",Manufacturing,26000,24,49,0
+1341,Thomas LLC,Finance,27000,236,65,0
+1342,"Rose, Roberts and Davis",Healthcare,47000,195,66,0
+1343,"Mitchell, Owen and Rodriguez",Retail,46000,351,98,0
+1344,"Smith, Silva and Williams",Retail,11000,105,5,0
+1345,Hale Group,Finance,13000,314,13,1
+1346,Freeman Group,Retail,44000,95,81,0
+1347,Bell-Lopez,Manufacturing,25000,188,78,0
+1348,"Johnson, King and Smith",Manufacturing,47000,342,92,0
+1349,Logan LLC,Finance,44000,221,48,0
+1350,"Liu, Nguyen and Williams",Retail,24000,174,36,0
+1351,Cooper Group,Healthcare,20000,321,10,1
+1352,Garcia-Carter,Retail,11000,320,45,0
+1353,Wise-Ford,Finance,4000,31,37,0
+1354,Lee LLC,Manufacturing,41000,175,23,0
+1355,Blackburn and Sons,Finance,34000,107,7,0
+1356,Jackson-Gray,Manufacturing,46000,74,49,0
+1357,Thompson-Conway,Healthcare,7000,152,51,0
+1358,Warner-Robinson,Healthcare,4000,149,53,0
+1359,"Ruiz, Dominguez and Porter",Retail,34000,225,46,0
+1360,Adams-Baldwin,Tech,40000,87,73,0
+1361,"Harrell, Cameron and Young",Healthcare,25000,81,17,0
+1362,Washington-Boyle,Manufacturing,33000,266,1,1
+1363,Lawrence and Sons,Tech,6000,41,60,0
+1364,Neal and Sons,Retail,22000,10,94,0
+1365,Reynolds-Campos,Tech,10000,101,54,0
+1366,"Nelson, Leach and Wyatt",Manufacturing,39000,352,32,1
+1367,Hudson LLC,Manufacturing,4000,189,27,0
+1368,Cooper Group,Finance,41000,22,58,0
+1369,Novak-Vang,Tech,37000,98,3,0
+1370,Giles-Davila,Finance,44000,228,57,0
+1371,Paul PLC,Retail,5000,269,93,0
+1372,Davis-Munoz,Finance,4000,204,30,0
+1373,"Yoder, Mccarthy and Cunningham",Retail,44000,168,89,0
+1374,Costa LLC,Healthcare,6000,268,18,1
+1375,Jensen-Ware,Finance,8000,78,85,0
+1376,May Inc,Healthcare,26000,318,8,0
+1377,"Cunningham, Bolton and Moore",Healthcare,17000,42,62,0
+1378,Henderson-Copeland,Tech,19000,339,22,1
+1379,Freeman-Johnston,Retail,10000,290,57,0
+1380,"Dean, Miller and Hart",Healthcare,47000,190,81,0
+1381,"Anderson, Thompson and Sanchez",Finance,47000,37,55,0
+1382,Ortiz LLC,Finance,22000,297,27,0
+1383,Rodgers Inc,Finance,47000,52,70,0
+1384,Cole-Mcconnell,Manufacturing,41000,91,1,0
+1385,"Davis, Mckinney and Ford",Healthcare,4000,302,89,0
+1386,"Alvarez, Jones and Mills",Manufacturing,43000,343,24,1
+1387,Gray Ltd,Healthcare,46000,7,76,0
+1388,"Ward, Cisneros and Pittman",Finance,34000,148,78,0
+1389,Smith-Ortiz,Manufacturing,30000,291,20,1
+1390,Jimenez-Willis,Tech,10000,55,13,0
+1391,Harmon-Berg,Finance,15000,105,5,0
+1392,Rice Group,Healthcare,2000,344,99,0
+1393,"Russell, Keller and Russell",Finance,32000,15,83,0
+1394,Beard-Watkins,Retail,11000,125,83,0
+1395,Washington LLC,Retail,47000,331,87,0
+1396,"Peterson, Walker and Johnson",Retail,6000,155,52,0
+1397,Jackson Ltd,Manufacturing,33000,56,62,0
+1398,"Meyer, Williams and Carter",Retail,11000,248,93,0
+1399,"Monroe, Hill and Weaver",Retail,16000,61,27,0
+1400,"Johnson, Baker and Perez",Tech,5000,256,95,0
+1401,Brady-Mills,Healthcare,18000,53,14,0
+1402,Schroeder-Scott,Retail,1000,311,13,1
+1403,Davidson-Murphy,Manufacturing,11000,51,49,0
+1404,"Bailey, Hampton and Carlson",Healthcare,42000,365,59,0
+1405,"Wilson, Young and Pierce",Tech,37000,313,39,0
+1406,Leblanc-Simpson,Tech,30000,11,72,0
+1407,Pacheco Inc,Retail,20000,271,61,0
+1408,Perry-Berry,Healthcare,7000,326,26,1
+1409,Jones LLC,Retail,42000,130,79,0
+1410,Young-West,Manufacturing,33000,210,29,0
+1411,Tucker-Montgomery,Manufacturing,36000,210,98,0
+1412,Wilkins-Case,Finance,18000,204,25,0
+1413,"Holland, Andrews and Morris",Retail,24000,155,72,0
+1414,Lewis-Hickman,Tech,5000,181,52,0
+1415,"Morris, Serrano and Trujillo",Tech,47000,232,73,0
+1416,Vargas-Garcia,Tech,40000,245,54,0
+1417,Rodriguez and Sons,Tech,27000,257,94,0
+1418,Gonzalez-Mccarthy,Retail,23000,161,30,0
+1419,Walker and Sons,Finance,49000,320,1,1
+1420,Munoz-Martinez,Manufacturing,12000,259,41,0
+1421,Butler-Watson,Manufacturing,47000,316,43,0
+1422,"Palmer, Smith and Holder",Manufacturing,31000,71,10,0
+1423,"Palmer, Dixon and Gross",Healthcare,31000,83,13,0
+1424,Harris Inc,Finance,50000,272,57,0
+1425,Thomas and Sons,Manufacturing,10000,312,89,0
+1426,"Stone, Burns and Cordova",Retail,24000,42,64,0
+1427,Lee-Singh,Manufacturing,43000,328,19,1
+1428,Williams Ltd,Finance,35000,273,29,0
+1429,Jenkins and Sons,Finance,24000,344,12,1
+1430,Smith-Higgins,Retail,9000,349,22,1
+1431,"Stanton, Bernard and York",Finance,43000,296,42,0
+1432,May-Hoffman,Finance,19000,62,88,0
+1433,"Cross, Cook and Lucero",Healthcare,9000,81,31,0
+1434,Holt LLC,Healthcare,34000,299,96,0
+1435,Sanchez LLC,Finance,7000,219,59,0
+1436,Krueger-Young,Finance,43000,275,81,0
+1437,Ford-Kim,Finance,43000,236,17,0
+1438,Clements LLC,Healthcare,11000,175,52,0
+1439,Willis-Ellis,Healthcare,19000,89,75,0
+1440,Mullen Inc,Tech,8000,319,83,0
+1441,Walker-Martin,Tech,33000,221,6,0
+1442,Watson-Wolf,Retail,37000,154,18,0
+1443,Moss PLC,Manufacturing,35000,21,43,0
+1444,Ayala-Little,Manufacturing,14000,93,81,0
+1445,Alexander-Johnson,Manufacturing,30000,163,2,0
+1446,Oconnor Ltd,Healthcare,39000,245,87,0
+1447,Thomas Group,Healthcare,36000,146,84,0
+1448,Sullivan PLC,Healthcare,23000,108,50,0
+1449,"Freeman, Yoder and Cook",Finance,27000,252,57,0
+1450,"Martinez, Stewart and Rodriguez",Manufacturing,8000,365,8,1
+1451,Wallace LLC,Manufacturing,4000,134,88,0
+1452,Ortiz and Sons,Tech,14000,124,60,0
+1453,Crosby PLC,Manufacturing,4000,152,59,0
+1454,Freeman Ltd,Manufacturing,18000,248,33,0
+1455,"Watson, Smith and Brown",Retail,36000,340,55,0
+1456,Daniels Inc,Healthcare,28000,337,45,0
+1457,Rodriguez and Sons,Finance,5000,226,71,0
+1458,"Baker, Brandt and Berg",Tech,1000,208,77,0
+1459,"Sweeney, Perez and Snow",Finance,4000,346,63,0
+1460,Walker-Green,Tech,47000,196,2,0
+1461,Hines Group,Finance,12000,89,86,0
+1462,Cross-Huynh,Finance,44000,180,81,0
+1463,"Patterson, English and Walker",Healthcare,17000,247,68,0
+1464,Olson-Castro,Finance,12000,247,11,0
+1465,Bryant-Paul,Manufacturing,37000,111,75,0
+1466,Day-Daniels,Retail,45000,136,71,0
+1467,"Davis, Mcfarland and Bailey",Tech,29000,282,57,0
+1468,Ellis-Smith,Finance,45000,78,39,0
+1469,Bass Group,Retail,43000,108,26,0
+1470,Williams-Williams,Finance,34000,289,25,0
+1471,Archer Inc,Retail,7000,9,82,0
+1472,Schmitt Ltd,Manufacturing,47000,101,51,0
+1473,Jenkins-Dixon,Finance,16000,346,18,0
+1474,"Hernandez, Johnson and Liu",Healthcare,45000,13,81,0
+1475,"Nielsen, Oconnor and Carpenter",Finance,18000,91,70,0
+1476,Myers and Sons,Finance,14000,258,31,0
+1477,Wagner and Sons,Retail,38000,168,80,0
+1478,Lee-Gibson,Manufacturing,4000,189,41,0
+1479,Osborne-Stevens,Manufacturing,28000,277,44,0
+1480,Adams and Sons,Healthcare,20000,153,64,0
+1481,Bryant-George,Manufacturing,8000,48,33,0
+1482,Klein-Montoya,Finance,46000,170,89,0
+1483,Dudley Group,Finance,10000,48,52,0
+1484,"Brown, White and Johnson",Healthcare,48000,289,2,1
+1485,Clark Ltd,Retail,12000,218,2,0
+1486,Day-Dodson,Retail,7000,262,84,0
+1487,Fuentes-Holt,Healthcare,12000,65,96,0
+1488,Norton Group,Finance,21000,21,34,0
+1489,Lynn-Williams,Healthcare,44000,22,85,0
+1490,Warren Group,Finance,35000,8,17,0
+1491,Goodwin-Thomas,Finance,45000,322,10,0
+1492,"Davis, Ortega and Wilson",Retail,34000,320,35,0
+1493,Horton LLC,Finance,41000,16,60,0
+1494,Campbell-Thompson,Healthcare,17000,142,73,0
+1495,"Sutton, Guerrero and Harmon",Healthcare,41000,333,69,0
+1496,Smith PLC,Manufacturing,33000,312,64,0
+1497,Gray PLC,Healthcare,38000,262,10,1
+1498,Mayer Ltd,Manufacturing,39000,312,13,1
+1499,"Pacheco, Atkins and Wells",Retail,16000,223,54,0
+1500,Figueroa Inc,Finance,18000,101,98,0
