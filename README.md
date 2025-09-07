@@ -20,28 +20,28 @@ This project is an interactive web application designed to provide a B2B sales t
 ## 📸 Application Preview
 
 
-*A screenshot of the main dashboard showing the customer segmentation chart and key metrics.*
+A screenshot of the main dashboard showing the customer segmentation chart and key metrics.
 
 ---
 
 ## ✨ Key Features
 
-* **Interactive Dashboard:** Built with Streamlit to provide a clean and responsive user interface for exploring customer data.
-* **Automated Customer Segmentation:** Utilizes a K-Means clustering algorithm to group customers into four key segments: `High-Value`, `Loyal`, `At-Risk`, and `New`.
-* **Predictive Churn Analysis:** Employs a Random Forest model to calculate the churn probability for each customer, allowing for proactive retention efforts.
-* **AI-Powered Assistant:** Integrated with the Google Gemini API, this chatbot can answer strategic, natural-language questions about the customer data, providing instant, actionable insights.
-* **Dynamic Visualizations:** Uses Plotly Express to create interactive charts and tables for intuitive data exploration.
+Interactive Dashboard: Built with Streamlit to provide a clean and responsive user interface for exploring customer data.
+Automated Customer Segmentation: Utilizes a K-Means clustering algorithm to group customers into four key segments: `High-Value`, `Loyal`, `At-Risk`, and `New`.
+Predictive Churn Analysis: Employs a Random Forest model to calculate the churn probability for each customer, allowing for proactive retention efforts.
+AI-Powered Assistant: Integrated with the Google Gemini API, this chatbot can answer strategic, natural-language questions about the customer data, providing instant, actionable insights.
+Dynamic Visualizations: Uses Plotly Express to create interactive charts and tables for intuitive data exploration.
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Backend & ML:** Python
-* **Web Framework:** Streamlit
-* **Data Manipulation:** Pandas
-* **Machine Learning:** Scikit-learn
-* **Visualizations:** Plotly Express
-* **Generative AI:** Google Gemini API
+Backend & ML: Python
+Web Framework: Streamlit
+Data Manipulation: Pandas
+Machine Learning: Scikit-learn
+Visualizations: Plotly Express
+Generative AI: Google Gemini API
 
 ---
 
